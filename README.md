@@ -1,4 +1,5 @@
 ### Olá Eu sou o Lucas!!
+### Atualmente cursando Desenvolvimento Java Full Stack na EBAC
 
 
 <div style="display: flex; flex-direction: row;">
@@ -25,11 +26,7 @@
   
 </div>
 
-<div>
-<p style="font-size: larger; font-weight: bold; font-family: 'Times New Roman';">
-    Atualmente cursando Desenvolvimento Java Full Stack na EBAC
-</p>   
-</div>
+
 
 <div>
   <a href="https://www.linkedin.com/in/gugelucas/">
