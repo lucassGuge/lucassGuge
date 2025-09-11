@@ -3,7 +3,7 @@
 
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassGuge&show_icons=true&theme=radical&locale=pt-br"  />
+  
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassGuge&show_icons=true&theme=radical&layout=compact&locale=pt-br" style="width:350px;" />
 </div>
