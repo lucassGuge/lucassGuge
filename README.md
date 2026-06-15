@@ -1,5 +1,5 @@
 ### Olá Eu sou o Lucas!!
-### Atualmente cursando Desenvolvimento Java Full Stack na EBAC
+### Desenvolvedor Java Full Stack 
 
 
 
